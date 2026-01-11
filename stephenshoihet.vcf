@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Shoihet;Stephen;;;
+FN:Stephen Shoihet
+ORG:Waterplay by Maker
+ADR;TYPE=WORK:805 Crowley Ave
+Kelowna, BC
+Canada V1Y 7G6
+TITLE:Technical Service Representative
+item1.TEL:250-555-0123
+item1.X-ABLabel:Office x111
+item2.TEL:1-800-555-0123
+item2.X-ABLabel:Toll Free x111
+EMAIL;TYPE=WORK:stephen.shoihet@makrgroup.com
+URL;TYPE=Digital Business Card:
+URL:waterplay.com
+URL;TYPE=Website:waterplay.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Leading Splash Pad andWater Park equipment manufacturer & supplierWe're passionate about play.
+UID:EnBizCard-100811785
+END:VCARD
